@@ -93,9 +93,9 @@ export default function Home() {
         >
           <div className="absolute inset-0 bg-stone-900 bg-opacity-75"></div>
           <div className="container mx-auto px-4 relative z-10">
-            <h2 className="text-5xl md:text-6xl font-bold mb-8 text-center text-amber-500 shadow-text">The $KNIGHT's Creed</h2>
+            <h2 className="text-5xl md:text-6xl font-bold mb-8 text-center text-amber-500 shadow-text">The $KNIGHTs Creed</h2>
             <p className="text-xl md:text-2xl text-center max-w-3xl mx-auto mb-12 text-amber-200 italic">
-              $KNIGHT embodies the spirit of resilience and honor in a changing realm. It is not merely a tale, but a character for brave souls to embody - a symbol of rising from the ashes of defeat and reclaiming one's destiny.
+              $KNIGHT embodies the spirit of resilience and honor in a changing realm. It is not merely a tale, but a character for brave souls to embody - a symbol of rising from the ashes of defeat and reclaiming ones destiny.
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
               <motion.div 
