@@ -259,7 +259,7 @@ export default function Home() {
 
         <footer className="py-8 bg-stone-900 border-t-4 border-amber-700">
           <div className="container mx-auto px-4 text-center text-amber-300">
-            <p className="text-lg">© 2024 $KNIGHT. All rights reserved by royal decree.</p>
+            <p className="text-md">© 2024 $KNIGHT. All rights reserved by royal decree.</p>
           </div>
         </footer>
       </div>
